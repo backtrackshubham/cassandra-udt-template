@@ -13,7 +13,7 @@ object MainApplication extends App {
 
   val movies = List(
     Movie("Intersteller", 2004),
-    Movie("Mahabhart", 2000)
+    Movie("Mahabharat", 2000)
   )
   val user = User(
     "Shubham",
